@@ -17,4 +17,23 @@ b = 5.0
 print(type(b))
 
 c = 2 + 4j
-print(type(c))
+
+# Sequence datatype 
+
+'''collection of similar or different data type 
+string - immutable sequence of characters
+list - mutable sequence of objects
+tuple - immutable sequence of objects
+'''
+# String 
+
+s = "Hello World"
+print(type(s)) # <class 'str'>
+
+#access string at index
+print(s[0])  # H
+print(s[1])  # e
+print(s[2])  # l
+print(s[-1]) # d
+
+
