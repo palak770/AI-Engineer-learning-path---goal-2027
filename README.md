@@ -8,22 +8,22 @@
 # Material includes :
    # Python Prerequisities :
 
- Variables
- Datatype 
- Loops 
- Conditional Statement 
- Library 
- Modules 
- Functions 
- Python data structure
- File Handling 
- OOPs
- Exception Handling 
+ Variables,
+ Datatype ,
+ Loops ,
+ Conditional Statement ,
+ Library ,
+ Modules ,
+ Functions ,
+ Python data structure,
+ File Handling ,
+ OOPs,
+ Exception Handling ,
  
  # Machine Learning :
- Supervised Machine Learning 
- Unsupervised Machine learning 
- Reinforcement Learning 
+ Supervised Machine Learning ,
+ Unsupervised Machine learning ,
+ Reinforcement Learning ,
  
 
 
