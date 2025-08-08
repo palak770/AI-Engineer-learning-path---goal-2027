@@ -1,0 +1,65 @@
+# ----------------------------
+# Python cache/compiled files
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ----------------------------
+# Jupyter Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# ----------------------------
+# Data files (if you don't want datasets in repo)
+# ----------------------------
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+
+# ----------------------------
+# Model files (large binaries)
+# ----------------------------
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# VS Code settings
+# ----------------------------
+.vscode/
+.history/
+*.code-workspace
+
+# ----------------------------
+# OS-specific files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Environment variable files
+# ----------------------------
+.env
