@@ -1,15 +1,17 @@
-#functions in python 
-#function is a block of code that only runs when it is called you can pass data, known as parameters, into a function. A function can return data as a result.
-#types of functions
-#1. Built-in functions
-#2. User-defined functions
-#3. Lambda functions
-#4. Recursive functions
-#5. Higher-order functions
-#6. Anonymous functions
-#7. Generator functions
-#8. Asynchronous functions
-#1. Built-in functions
+"""                                               functions in python 
+function is a block of code that only runs when it is called you can pass data, known as parameters, into a function. A function can return data as a result.
+                                              
+                                                    types of functions
+1. Built-in functions
+2. User-defined functions
+3. Lambda functions
+4. Recursive functions
+5. Higher-order functions
+6. Anonymous functions
+7. Generator functions
+8. Asynchronous functions
+""""
+# 1. Built-in functions
 #These are functions that are already defined in Python and can be used directly without any additional code
 print(len("Hello, World!"))  # Returns the length of the string
 print(max([1, 2, 3, 4, 5]))  # Returns the maximum value in the list
